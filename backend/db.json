@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "tituloPost": "Black Friday com 'tudo pela metade do dobro?",
+      "autorPost": "Adelson",
+      "dataPost": "5/11/2023",
+      "conteudoPost": "A Black Friday pode ser considerada um esquenta para o Natal com descontos e promoções no varejo, mas como saber se os preços que realmente estão mais baixos e não estão 'pela metade do dobro'? Para evitar cair em armadilhas e maquiagem de preços, o consumidor deve ficar atento e usar plataformas que ajudem a comprarar o histórico de preços… ",
+      "id": 1
+    },
+    {
+      "tituloPost": "Salvador é um porto atlântico a abrigar a música negra mundial… ",
+      "autorPost": "Adelson",
+      "dataPost": "5/11/2023",
+      "conteudoPost": "Com o show do cantor nigeriano Seun Kuti, nesta sexta-feira, 24, Salvador confirma ser o porto atlântico para abrigar a música negra produzida no mundo.\n\nNeste mês de novembro, a cidade mais negra fora do continente africano celebra sua negritude com importantes nomes da música daqui e de fora, em uma variedade de gêneros e ritmos de origem africana… ",
+      "id": 2
+    },
+    {
+      "tituloPost": "Quem são os líderes do Hamas?",
+      "autorPost": "Adelson",
+      "dataPost": "5/11/2023",
+      "conteudoPost": "Acredita-se que Yahya Sinwar seja o mentor do ataque terrorista de 7 de outubro , quando inúmeros combatentes do grupo radical islâmico Hamas cruzaram a fronteira da Faixa de Gaza com Israel, matando mais de 1.200 pessoas e sequestrando cerca de 240, segundo números do governo israelense.\n\nConsiderado o principal comandante do Hamas na Faixa de Gaza, ele é atualmente o homem mais procurado de Israel. O objetivo declarado do exército israelense é eliminá-lo e esmagar o grupo. Mas Yahya Sinwar é apenas um dos vários comandantes do Hamas. Saiba quem são eles.",
+      "id": 3
+    },
+    {
+      "tituloPost": "Benjamim de Oliveira: o palhaço negro que encantou multidões",
+      "autorPost": "Adelson",
+      "dataPost": "5/11/2023",
+      "conteudoPost": "Era um esquete comum protagonizado pelo palhaço Benjamim de Oliveira (1870-1954): ele imitava Jesus Cristo e ficava de braços abertos. Mas aí, acima de sua cabeça, uma goteira molhava seu corpo, que acabava ficando listrado, desencadeando risos na plateia.",
+      "id": 4
+    },
+    {
+      "tituloPost": "Brasil e Alemanha: gigantes do futebol unidos pela crise",
+      "autorPost": "Adelson",
+      "dataPost": "5/11/2023",
+      "conteudoPost": "Tanto no Brasil como na Alemanha, o futebol é sem sombra de dúvidas o esporte nacional número um. O potencial do Brasil para produzir craques é considerado quase inesgotável – nenhum outro país exporta tantos profissionais para outros países, e em 2021 mais de 10 mil jogadores de futebol brasileiros ganharam dinheiro no exterior. Já a Federação Alemã de Futebol (DFB) tem mais de 7,3 milhões de membros – em nenhum outro país há tantas pessoas jogando futebol em clubes.",
+      "id": 5
+    }
+  ]
+}
